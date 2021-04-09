@@ -2,9 +2,9 @@
   <div class="absolute bottom-0">
     <nav class="bg-gray-800 h-10 w-screen">
       <div class="grid grid-cols-3 gap-4 h-full">
-        <div class="text-white text-left ml-3 my-auto">
+        <div class="text-white text-left ml-0">
           <button
-            class="bg-red-600 hover:bg-red-800 focus:outline-none focus:ring-2 focus:ring-red-600 focus:ring-opacity-50 px-1 rounded"
+            class="bg-red-600 hover:bg-red-800 focus:outline-none focus:ring-1 focus:ring-red-600 focus:ring-opacity-50 px-1 rounded h-full"
             @click="openStartMenu"
           >
             Menu
